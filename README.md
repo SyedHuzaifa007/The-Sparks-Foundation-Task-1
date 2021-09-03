@@ -14,3 +14,10 @@ This repository contains the code for task-1 given by The Sparks Foundation for 
 ###### **Accuracy Achieved**: *94.54%*
 ---
 #### Libraries & Modules Used:
+``` Numpy ```
+``` Pandas ```
+``` Matplotlib ```
+``` Seaborn ```
+``` Pickle ```
+#### Link To Notebook:
+https://colab.research.google.com/drive/17bJRgADbqMFGhAe_VvkgAOkwpa0skFDg?usp=sharing
