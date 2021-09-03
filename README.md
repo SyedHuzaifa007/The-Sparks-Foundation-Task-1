@@ -7,11 +7,7 @@ This repository contains the code for task-1 given by The Sparks Foundation for 
 Predict The Percentage of Student's Performance Using His/Her Number of Study Hours.
 #### Problem Type:
 **Linear Regression**
-#### Librabry Used For ML:
-**Scikit-Learn**
-#### Language Used:
-Python
-#### IDE: 
-**Google Collaboratory**
-#### Accuracy Achieved:
-**94.54%**
+**Librabry Used For ML**: *Scikit-Learn*
+**Language Used**: *Python*
+**IDE Used**: *Google Collaboratory*
+**Accuracy Achieved**: *94.54%*
