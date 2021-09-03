@@ -9,7 +9,7 @@ This repository contains the code for task-1 given by The Sparks Foundation for 
 #### Problem Type:
 ##### **Linear Regression**
 ---
-###### **Librabry Used For ML**: *Scikit-Learn*
+###### **Librabry Used For ML**: ``` Scikit-Learn ```
 ###### **Language Used**: *Python*
 ###### **IDE Used**: *Google Collaboratory*
 ###### **Accuracy Achieved**: *94.54%*
