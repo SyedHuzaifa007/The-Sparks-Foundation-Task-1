@@ -7,7 +7,7 @@ This repository contains the code for task-1 given by The Sparks Foundation for 
 #### Problem Statement:
 **Predict The Percentage of Student's Performance Using His/Her Number of Study Hours.**
 #### Problem Type:
-##### **Linear Regression**
+##### **Supervised Learning - Linear Regression**
 ---
 ###### **Librabry Used For ML**: ``` Scikit-Learn ```
 ###### **Language Used**: *Python*
